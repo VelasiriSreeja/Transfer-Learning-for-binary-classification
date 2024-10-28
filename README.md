@@ -4,6 +4,7 @@ To Implement Transfer Learning for Horses_vs_humans dataset classification using
 ## Problem Statement and Dataset
 The objective of this project is to classify images from the Horses vs. Humans dataset using the InceptionV3 architecture through transfer learning. This dataset presents a binary classification challenge, distinguishing between images of horses and humans. By leveraging pre-trained weights from the InceptionV3 model, we aim to enhance classification accuracy and reduce training time. The project will evaluate the model's performance based on metrics such as accuracy, precision, and recall. Ultimately, the goal is to demonstrate the effectiveness of transfer learning in image classification tasks.
 
+https://laurencemoroney.com/datasets.html
 
 ## DESIGN STEPS
 ### STEP 1:
